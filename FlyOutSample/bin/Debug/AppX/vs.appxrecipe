@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDRENOTEDELL</Machine>
+    <WindowsUser>André</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>221297710EAABB344FEC13CD8ACD799C76F33566808F7DA89703031E8E5996E7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8bc81eb2-c763-4212-8619-3ebcd46c1059_1.0.0.0_neutral__pbvqzr6vqyypm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8bc81eb2-c763-4212-8619-3ebcd46c1059_pbvqzr6vqyypm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8bc81eb2-c763-4212-8619-3ebcd46c1059</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=André</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-12T05:58:37.814</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\FlyOutSample.exe">
+      <PackagePath>FlyOutSample.exe</PackagePath>
+      <Modified>2013-03-12T05:58:36.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\FlyOutSample.pdb">
+      <PackagePath>FlyOutSample.pdb</PackagePath>
+      <Modified>2013-03-12T05:58:36.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-06T05:34:49.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\AboutControl.xaml">
+      <PackagePath>AboutControl.xaml</PackagePath>
+      <Modified>2013-03-06T05:56:04.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-03-06T05:55:10.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-03-06T05:34:49.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\André\Documents\Visual Studio 2012\Projects\FlyOutSample\FlyOutSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-12T05:58:37.220</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
